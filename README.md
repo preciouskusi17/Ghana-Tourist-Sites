@@ -1,5 +1,5 @@
 # Ghana-Tourist-Sites
-View project: https://preciouskusi17.github.io/Ghana-Tourist-Sites/w 
+View project: https://preciouskusi17.github.io/Ghana-Tourist-Sites/
 
 This is a sample of a landing page and the second exercise following The Odin Project course.
 
